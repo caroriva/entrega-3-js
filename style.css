@@ -32,6 +32,7 @@ form h2 {
   height: 40px;
   width: 200px;
   border-radius: 5px;
+  text-align: center;
 }
 
 button {
